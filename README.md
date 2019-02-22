@@ -1,4 +1,4 @@
-## ??mini_batch
+## mini_batch
 python pre_processor/gen_mini_batches.py
 
 ## add path 
